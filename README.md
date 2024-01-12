@@ -18,6 +18,10 @@ This is a Source Code For Telegram Anime Bot
 
 • Streaming Links Feature
 
+## 🌌 Commands :
+
+/help , /findanime , /animeinfo , /watchanime , checkapis , /cmds
+
 ## 💽 Where To Host :
 
 You can use any hosting.
