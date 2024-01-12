@@ -32,6 +32,6 @@ join My Telegram Channel For More Amazing Codes
 
 ---
 
-<h4 align='center'>© 2023 UNIQUE GAMING</h4>
+<h4 align='center'>© 2024 UNIQUE GAMING</h4>
 
 <!-- DO NOT REMOVE THIS CREDIT 🤬 🤬 -->
