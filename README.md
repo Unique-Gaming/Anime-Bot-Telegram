@@ -4,6 +4,10 @@ This is a Source Code For Telegram Anime Bot
 
 • This Code Doesn't Support Sending Messages To Multiple Peoples Feature At Once If You Guys need This Feature You Can Join My Telegram Channel
 
+### 💻 Setup :
+
+• Set Webhook To Your Url <pre>https://api.telegram.org/bot<Bot Token Here>/setWebhook?url=<Webhook Url For example example.com/bot.php></pre>
+
 ### ✨ Features :
 
 • Latest Api's
