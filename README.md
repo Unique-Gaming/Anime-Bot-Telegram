@@ -6,7 +6,7 @@ This is a Source Code For Telegram Anime Bot
 
 ### 💻 Setup :
 
-• Set Webhook To Your Url <pre>https://api.telegram.org/bot<Bot Token Here>/setWebhook?url=<Webhook Url For example example.com/bot.php></pre>
+• Set Webhook To Your Url `https://api.telegram.org/bot<Bot Token Here>/setWebhook?url=<Webhook Url For example example.com/bot.php>`
 
 ### ✨ Features :
 
