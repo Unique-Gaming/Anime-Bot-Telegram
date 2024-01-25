@@ -54,7 +54,7 @@ $apiToken = $_ENV['API_TOKEN'];
       editMessage($chat_id, $messageid1, "***Finding Anime'ss ⭕️⭕️***");
 
 
-      $url = "https://www.uniqueapi.online/anime/api/search.php?anime=$processedText";
+      $url = "https://uniqueapi.online/anime/api/search.php?anime=$processedText";
 
 
       
@@ -121,7 +121,7 @@ $apiToken = $_ENV['API_TOKEN'];
         $messageid1 = sendMessage($chat_id, "***Finding Anime's info ⭕️***");
 
 
-        $url = "https://www.uniqueapi.online/anime/api/info.php?id=$additionalText2";
+        $url = "https://uniqueapi.online/anime/api/info.php?id=$additionalText2";
 
 
       
@@ -187,7 +187,7 @@ $apiToken = $_ENV['API_TOKEN'];
       $streamid = "$animeId-episode-$episodeNumber";
 
 
-        $url = "https://www.uniqueapi.online/anime/api/stream.php?id=$streamid";
+        $url = "https://uniqueapi.online/anime/api/stream.php?id=$streamid";
         
         $ch = curl_init();
 
@@ -233,9 +233,9 @@ exit;
 
         if($message == "/checkapis"){
           $message1id = sendMessage($chat_id,"***Checking All API's ⭕️***");
-          $api1 = "https://www.uniqueapi.online/anime/api/stream.php?id=one-piece-episode-1";
-          $api2 = "https://www.uniqueapi.online/anime/api/info.php?id=tomo-chan-wa-onnanoko";
-          $api3 = "https://www.uniqueapi.online/anime/api/search.php?anime=one-piece";
+          $api1 = "https://uniqueapi.online/anime/api/stream.php?id=one-piece-episode-1";
+          $api2 = "https://uniqueapi.online/anime/api/info.php?id=tomo-chan-wa-onnanoko";
+          $api3 = "https://uniqueapi.online/anime/api/search.php?anime=one-piece";
 
           editMessage($chat_id, $message1id, "***Checking All API's ⭕️⭕️***");
           $message = "***✨ API's INFO***\n\n***Watch Api:*** " . 
